@@ -1,5 +1,5 @@
 # install Apache2-PHP-MySQL
-FROM httpd:alpine 
+FROM httpd 
 #RUN apt update 
 #RUN apt install –y apache2 
 #RUN apt install –y apache2-utils 
